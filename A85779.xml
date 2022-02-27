@@ -1,0 +1,189 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of Collonel Hugh Grove, upon the scaffold at Exceter, on Munday last, immediately before his head was severed from his body. With his prayer a little before death, and his declaration and protest to the people, touching a [brace] a [sic] loyal heart, a faithful conscience, a bloody scaffold, and a fatal axe. / Taken by an impartial hand, and transmitted to the press, to the end, it might be printed, published, and dispierced, throughout the three nations of England, Scotland, and Ireland.</title>
+            <author>Grove, Hugh, d. 1655.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1655</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85779</idno>
+            <idno type="STC">Wing G2246</idno>
+            <idno type="STC">Thomason E838_10</idno>
+            <idno type="STC">ESTC R207437</idno>
+            <idno type="EEBO-CITATION">99866486</idno>
+            <idno type="PROQUEST">99866486</idno>
+            <idno type="VID">168145</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85779)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168145)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 127:E838[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of Collonel Hugh Grove, upon the scaffold at Exceter, on Munday last, immediately before his head was severed from his body. With his prayer a little before death, and his declaration and protest to the people, touching a [brace] a [sic] loyal heart, a faithful conscience, a bloody scaffold, and a fatal axe. / Taken by an impartial hand, and transmitted to the press, to the end, it might be printed, published, and dispierced, throughout the three nations of England, Scotland, and Ireland.</title>
+                  <author>Grove, Hugh, d. 1655.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Sam. Burdet,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1655.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Bracketed on title page: A loyal heart .. And a fatal axe.</note>
+                  <note>Annotation on Thomason copy: "May. 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Last words --  Early works to 1800.</term>
+               <term>Executions and executioners --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168145:1" rendition="simple:additions"/>
+            <p>THE SPEECH OF Collonel HUGH GROVE, UPON The Scaffold at Exceter, on Munday laſt, im<g ref="char:EOLhyphen"/>mediatly before his head was ſevered from his Body.</p>
+            <p>With his Prayer a little before death, and his Declaration and Proteſt to the People, touching a A Loyal Heart, A faithful Conſcience, A Bloody Scaffold, And a Fatal Axe.</p>
+            <p>TAken by an impartial Hand, and tranſmitted to the Preſſ, to the end, it might be printed, publiſhed, and diſpierced, throughout the three Nations of England, Scotland, and Ireland.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Sam. Burdet,</hi> 1655.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:168145:2"/>
+            <pb n="3" facs="tcp:168145:2"/>
+            <head>The Speech of Col. Hugh Grove, on Munday laſt, at the place of Execution upon the Scaf<g ref="char:EOLhyphen"/>fold, immediatly before his head was ſevered from his body.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Fter he came upon the Scaffold, kiſſing the Block he ſaid, I hope there is no more but this block between me &amp; heaven; and I hope I ſhall neither tire in my way, nor go out of it: and turning to the Rail, he ſpake to the People as followeth; <hi>Chriſtian Gentlemen, and Friends,</hi> Should I be ſilent in this great Work, and not act my part like a Chriſtian upon this bloody Scaf<g ref="char:EOLhyphen"/>fold, ſome might be ſo exaſperated as to expoſtulate why this great Judg<g ref="char:EOLhyphen"/>ment is fallen upon me; but know I am able to give a better accompt of my moral honeſty, judgment, and execution, then my Judgers themſelves, or you are able to give; It is Gods wrath upon me for fins long unrepent<g ref="char:EOLhyphen"/>ed of, many judgments withſtood, and mercies ſlighted; therefore God has whipped me by his ſevere Rod of Correction that he might not loſe me; I pray joyn with me in prayer that it may not be a fruitleſ<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Rod, that when by this Rod I have laid down my life, by this ſtaff I may be comforted, and received into glory.</p>
+            <p>And I deſire that God Almighty would confer of his infinite and ineſti<g ref="char:EOLhyphen"/>mable grace and mercy to thoſe that are the cauſe of my coming hither to pay this violent death, as much mercy as their hearts can wiſh; and truly,
+<pb n="4" facs="tcp:168145:3"/>
+for my heart, I ſhall not accuſe any one of them of malice, truly I will not, nay I will not think there was any malice in them; what other ends there is I know not, nor I will not examine, but let it be what it will, from my very ſoul I forgive them every one: and ſo the Lord of Heaven bleſs you all, God Almighty be infinite in goodneſs and mercy to you, and direct you in thoſe ways of true obedience to his Commands, our great and glo<g ref="char:EOLunhyphen"/>rious King, that ſo he may ſend down his Spirit of Peace and Concord, &amp; unite the hearts of all his Subjects on Earth.</p>
+            <p>I take it for an honour, and I owe thankfulneſſe to thoſe under whoſe power I am, that they have ſent me to a place, however of puniſhment, yet of ſome honour to die a death, ſomewhat worthy of my blood, anſwerable to my birth; and this courteſie of theirs hath much helped towards the pacification of my mind.</p>
+            <p>I am not the firſt that hath ſuffered in this kind, it is the common porti<g ref="char:EOLhyphen"/>on of us all while we are in this life to err, Righteous Judgment we muſt wait for in another place, for here we are very ſubject to be miſ-judged one of another.</p>
+            <p>For my Death, I here acquit all the world, and beſeech the Lord God of Heaven heartily to forgive them that are acceſſary to it. As for my Native Countrey, I wiſh it all the proſperity and happineſs in the World, I did it living, and now dying it is my wiſh, I do moſt humbly recommend this to every one that hears me, and deſire they would lay their hands upon their hearts, and conſider ſeriouſly whether the beginning of the happineſs and reformation of a people ſhould be written in Letters of blood: conſider this when you are at your homes, and let me be never ſo unhappy, as that the laſt drop of my blood ſhould riſe up in Judgment againſt any one of you, but I fear you are in a wrong way.</p>
+            <p>That debt I owe to Nature, to pay it upon the ſcore of a ſubject, doth hold forth ſomewhat of Innocency: O what a ſad thing it is, when Loy<g ref="char:EOLhyphen"/>alty muſt be accounted not onely a Sin, but a Crime! may, a Crime of ſo vaſt and boundleſs extent, that nothing can appeaſe and ſatisfie the wrath and indignation thereof, but Life it ſelf.</p>
+            <p>Bleſſed be God, that he hath thought me worthy to ſuffer for my inte<g ref="char:EOLhyphen"/>grity and faithfulneſs towards my Maſter; and bleſſed be his Name who hath filled me with ſuch extaſies of Heaven, that I thing long till I am ar<g ref="char:EOLhyphen"/>rived at Tabernacle, which leads to Eternal Glory.</p>
+            <p>As touching my Religion, I profeſs that I die a true and obedient Son
+<pb n="5" facs="tcp:168145:3"/>
+to the Church of England, wherein I was born, and in which I was bred: peace and proſperity be ever to it. I have alwayes been fearful of offending Almighty God, according to the grace he hath given me, and my Alle<g ref="char:EOLhyphen"/>geance hath been incorporated into my Religion. Bleſſed be Almighty God that hath called me to the knowledge of him, and this ready Obedi<g ref="char:EOLhyphen"/>ence which I pray, and mercifully accepting of my Saviour, and patient Death: And I beſeech you all whatſoever you are, That you will accom<g ref="char:EOLhyphen"/>pany me with your prayers, whereby my ſoul may be aſſiſted within me, in that paſſage to my Saviour, whither I am a going. And turning to two Miniſters upon the Scaffold, ſaid, <hi>I have a good Cauſe, and a gracious God on my ſide.</hi>
+            </p>
+            <sp>
+               <speaker>Miniſter,</speaker>
+               <p>Sir, There is but one ſtage more; this ſtage is turbulent &amp; trou<g ref="char:EOLhyphen"/>bleſome; it is a ſhort one, but you may conſider, it will ſoon carry you a very great way; it will carry you from earth to heaven; and there you ſhall find a great deal of cordial joy and comfort.</p>
+            </sp>
+            <sp>
+               <speaker>Col.</speaker>
+               <p>I go from a corruptible to an incorruptible Being, where no diſturbance can be.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>You are exchanged from a temporal Being, to an eternal Being; a good exchange. And I humbly beſeech God that you may now with a holy and Chriſtian courage give up your ſoul to the hand of your faithful Creator, and gracious Redeemer, and not be diſmayed with the apprehen<g ref="char:EOLhyphen"/>ſion of any terrors of this death.</p>
+            </sp>
+            <sp>
+               <speaker>Col.</speaker>
+               <p>Truly Sir, I do take you in mine Arms, and I bleſs God for it, I do not fear, I have an aſſurance that is grounded here (laying his hand upon his heart) which gives me more joy then ever I had; this is my Proteſt, I diſſemble not my words.</p>
+            </sp>
+            <sp>
+               <speaker>Min.</speaker>
+               <p>Sir it is a marvellous great ſatisfaction, that at this laſt hour you can ſay ſo, I beſeech the Lord for his eternal mercy ſtrengthen your Faith, that in the very moment of your Diſſolution, you may ſes the Arms of the Lord Jeſus ſtretched out ready to receive your ſoul. I doubt not Sir, but you now behold with the Eye of Faith, the Son of Righteouſneſſe ſhining upon your ſoul, and will cheerfully ſubmit unto him, who hath redeemed us through his blood, even the blood of Jeſus Chriſt; that you may appear at the Tribunal of God, cloathed with the white Robe of his unſpotted Righteouſneſſe; the Lord grant that with the Eye of Faith you may now ſee the heavens opened, and Jeſus Chriſt ſtanding at the right hand of God ready to receive you into his Arms of Mercy; for 'tis the unſpeakable joy
+<pb n="6" facs="tcp:168145:4"/>
+of a Believer, that at the hour of death his ſoul hath an immediate paſſage from this earthly Tabernacle, to that Region of endleſs Glory, yea to the preſence of God himſelf, in whoſe preſence is fulneſſe of joy, and at whoſe right hand there are pleaſures for evermore.</p>
+            </sp>
+            <sp>
+               <speaker>Col.</speaker>
+               <p>Sir, Bleſſed be God, who hath endued me with ſuch a Spirit, that witneſſeth unto me, that Chriſt is become a Jeſus unto me, the Author and Finiſher of my Salvation, who himſelf was brought to a violent death by the Redemption of Mankind: This is all, Sir, that I have to ſay; onely I deſire you to joyn with me in prayer; and kneeling down, prayed thus,</p>
+            </sp>
+            <p>O Moſt bleſſed Lord, I thy poor and un<g ref="char:EOLhyphen"/>worthy ſervant come unto thee, preſume<g ref="char:EOLhyphen"/>ing in thy infinite mercy, and the merits of Jeſus Chriſt, who ſits upon the Throne; I come fly<g ref="char:EOLhyphen"/>ing from that of Juſtice, to that of mercy and tenderneſs, for his ſake which ſhed his blood for ſinners, that he would take compaſſion upon me, that he would look upon me as one that has redeemed me, and ſhed his blood for me; that he would look upon me, as one who now calls and hopes to be ſaved by his Alſufficient merits. For his ſake, glorious God, have compaſſion on me in the freeneſs of thy infinite mercy, that when this ſinful ſoul of mine ſhal depart out of this
+<pb n="7" facs="tcp:168145:4"/>
+frail Carcaſs of Clay, I may be carryed into thy everlaſting Glory; O Lord, my, God, and my Redeemer, hear me, take pitty upon me, take pitty upon me, gracious Father, and ſo deal with with my ſoul, that by thy precious merits I may attain to thy joy and bliſs; O Lord remember me, for thy Names ſake, and receive me into thy own bound of mercy; O Lord, I truſt in thee, let me not be confounded, but grant me a man<g ref="char:EOLhyphen"/>ſion in my fathers houſe. O hear me ſweet Jeſus, even for thy own goodneſs, mercy, and truth; O glorious God, O bleſſed Father, O holy Re<g ref="char:EOLhyphen"/>deemer, O gracious Comforter, O holy and bleſſed Trinity, I do render up my ſoul into thy hands, and commit it with the Mediation of my Redeemer, praiſing thee for all thy diſpenſati<g ref="char:EOLhyphen"/>ons that it has pleaſed thee to confer upon me, and even for this, praiſe, honour, and thanks, from this time forth for evermore.</p>
+            <p>
+               <pb n="8" facs="tcp:168145:5"/>
+Having ended his prayer, he prepared himſelf for the fatal ſtroke; and pulling off his Doublet, and putting on his Cap, the Miniſter again ſpakes Now, now, Sir, lift up your eyes unto Jeſus Chriſt, and caſt your ſelf into the everlaſting Arms of your gracious Redeemer.</p>
+            <p>
+               <hi>Col.</hi> Sir, I thank you, to Paradiſe am I now going. And laying his head over the Block, to try it; the Miniſter concluded with theſe words:
+<q>
+                  <p>Jeſus the Son of David, have mercy upon you.</p>
+               </q>
+            </p>
+            <p>Then riſing up, and taking his leave of his friends and acquaintance, ſa<g ref="char:EOLhyphen"/>luting them with a courteous valediction, caſting his eyes up, and fixing them very intentively upon Heaven, ſaid, When I ſay Lord Jeſus receive me, Executioner do thine Office; th<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n kiſſing the Ax he laid down, and with as much undanted, yet Chriſtian courage, as poſſible could be in man, did he expoſe his throat to the fatal Ax, his life to the Executioner, and commended his ſoul into the hands of a faithful and merciful Creator, through the meritorious paſſion of a gracious Redeemer; and upon giving the ſign, at one blow his head was ſevered from his ſhoulders; which was taken up by his friends, and (with his body) put into a Coffin and carry<g ref="char:EOLhyphen"/>ed away.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
